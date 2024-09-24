@@ -1,2 +1,2 @@
 # food-store
-Just a food store
+Rasa yang Berbicara, Cita Rasa yang Bersahaja.
